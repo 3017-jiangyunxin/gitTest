@@ -1,3 +1,6 @@
  This is a test file.
  
  insert new message from workspace.
+
+ insert new message.
+
