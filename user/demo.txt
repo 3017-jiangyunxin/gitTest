@@ -4,3 +4,4 @@
 
  insert new message.
 
+ insert conflict message.
