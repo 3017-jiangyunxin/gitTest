@@ -1,4 +1,4 @@
 admin file.
 test forget push.
-tom2 add.
-resolve conflict.
+tom1 add.
+this is new add.
